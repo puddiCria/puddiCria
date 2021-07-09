@@ -11,7 +11,7 @@
 
 <h3>Hi there 👋</h3>
 
-- 🍮 Hi, my name is Puddin an my nickname is Hudson Regis.
+- 🍮 Hi, my name is Puddin and my nickname is Hudson Regis.
 - ✒️ I’m full Designer on the way to being senior Designer.
 - ✏️ What else do I do: professional illustrations and comissions, a lot of things about Digital Art and video editing.
 - 📚 I love to learn and I like to teach everything I know.
