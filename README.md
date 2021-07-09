@@ -1,4 +1,3 @@
- pt-br
  <h3>E aí meu chapa 👋</h3>
                         
 - 🍮 Salve, salve, meu nome é Puddin e meu apelido é Hudson Regis.
